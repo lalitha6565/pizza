@@ -11,9 +11,11 @@ function Home() {
         <p><marquee>😋CRUST ME,IT'S DELICIOUS🍕</marquee></p>
         <Link to="/menu">
           <button> ORDER NOW </button>
+       
         </Link>
       </div>
     </div>
+    
   );
 }
 
